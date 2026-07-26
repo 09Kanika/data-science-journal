@@ -39,6 +39,7 @@ htmlcov/
 env/
 venv/
 ENV/
+experiments_venv/
 
 # Data & Models
 data/
